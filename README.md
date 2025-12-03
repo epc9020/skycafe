@@ -1,4 +1,4 @@
-# status.cafe to bluesky
+# skycafe
 Simple python script that uploads the latest entry in a status.cafe (ie, your status.cafe) atom feed to bluesky.
 
 currently, you need to manually run the script for this to actually do anything. 
@@ -27,7 +27,7 @@ you may need some python libs to make this actually work. fortunately installing
 1. open the script in a text editor and replace placeholder text with your own information
 - your status.cafe username goes into "username",
 - your bluesky handle goes into "handle"
-- your bluesky password goes into "password"
+- ~~your bluesky password goes into "password"~~ create an app password in bsky instead https://bsky.app/settings/app-passwords
 2. run the script on your computer
 
 ## to do
